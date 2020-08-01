@@ -15,3 +15,5 @@
     source /etc/profile
 ###6.检测 
     java -version  查看现有java版本
+    
+    
